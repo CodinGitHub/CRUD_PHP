@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "question": "\u00bfCon cu\u00e1l etiqueta creas un enlace?",
+    "rightAnswer": "<a><\/a>",
+    "wrongAnswer1": "<enlace><\/enlace>",
+    "wrongAnswer2": "<en><\/en>",
+    "wrongAnswer3": "<ancla><\/ancla>"
+  },
+  {
+    "id": 2,
+    "question": "\u00bfCon cu\u00e1l etiqueta creas un enlace?",
+    "rightAnswer": "<a><\/a>",
+    "wrongAnswer1": "<enlace><\/enlace>",
+    "wrongAnswer2": "<en><\/en>",
+    "wrongAnswer3": "<ancla><\/ancla>"
+  },
+  {
+    "id": 3,
+    "question": "\u00bfCon cu\u00e1l etiqueta creas un enlace?",
+    "rightAnswer": "<a><\/a>",
+    "wrongAnswer1": "<enlace><\/enlace>",
+    "wrongAnswer2": "<en><\/en>",
+    "wrongAnswer3": "<ancla><\/ancla>"
+  },
+  {
+    "id": 0,
+    "question": "hdfgh",
+    "rightAnswer": "dfgh",
+    "wrongAnswer1": "dhfgh",
+    "wrongAnswer2": "dfhg",
+    "wrongAnswer3": "dfgh"
+  }
+]
